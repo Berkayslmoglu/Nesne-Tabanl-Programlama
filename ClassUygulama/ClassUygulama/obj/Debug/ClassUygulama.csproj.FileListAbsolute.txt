@@ -1,0 +1,6 @@
+F:\NTP\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.exe.config
+F:\NTP\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.exe
+F:\NTP\ClassUygulama\ClassUygulama\bin\Debug\ClassUygulama.pdb
+F:\NTP\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.csprojResolveAssemblyReference.cache
+F:\NTP\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.exe
+F:\NTP\ClassUygulama\ClassUygulama\obj\Debug\ClassUygulama.pdb
