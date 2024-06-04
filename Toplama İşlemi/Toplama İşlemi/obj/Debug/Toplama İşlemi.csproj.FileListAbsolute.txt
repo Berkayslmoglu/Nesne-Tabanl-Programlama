@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\bin\Debug\Toplama İşlemi.exe.config
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\bin\Debug\Toplama İşlemi.exe
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\bin\Debug\Toplama İşlemi.pdb
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama İşlemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama_İşlemi.Form1.resources
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama_İşlemi.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama İşlemi.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama İşlemi.exe
+C:\Users\PC\Desktop\Boşluk\Toplama İşlemi\Toplama İşlemi\obj\Debug\Toplama İşlemi.pdb
