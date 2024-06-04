@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\bin\Debug\Ders7.exe.config
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\bin\Debug\Ders7.exe
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\bin\Debug\Ders7.pdb
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.Form1.resources
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.Properties.Resources.resources
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.exe
+C:\Users\PC\Desktop\Yenşi\Ders7\Ders7\obj\Debug\Ders7.pdb
