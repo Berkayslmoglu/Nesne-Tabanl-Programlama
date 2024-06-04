@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\Yenşi\Uyg1\Uyg1\bin\Debug\Uyg1.exe.config
+C:\Users\PC\Desktop\Yenşi\Uyg1\Uyg1\obj\Debug\Uyg1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yenşi\Uyg1\Uyg1\obj\Debug\Uyg1.Form1.resources
+C:\Users\PC\Desktop\Yenşi\Uyg1\Uyg1\obj\Debug\Uyg1.Properties.Resources.resources
+C:\Users\PC\Desktop\Yenşi\Uyg1\Uyg1\obj\Debug\Uyg1.csproj.GenerateResource.Cache
