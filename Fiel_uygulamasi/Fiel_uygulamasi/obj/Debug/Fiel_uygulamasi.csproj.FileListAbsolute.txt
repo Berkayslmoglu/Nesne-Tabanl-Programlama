@@ -1,0 +1,6 @@
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\bin\Debug\Fiel_uygulamasi.exe.config
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\bin\Debug\Fiel_uygulamasi.exe
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\bin\Debug\Fiel_uygulamasi.pdb
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\obj\Debug\Fiel_uygulamasi.csprojResolveAssemblyReference.cache
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\obj\Debug\Fiel_uygulamasi.exe
+F:\NTP\Fiel_uygulamasi\Fiel_uygulamasi\obj\Debug\Fiel_uygulamasi.pdb
